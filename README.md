@@ -2,10 +2,11 @@
 
 Para desplegar este entorno:
 
-Clonar el repositorio
+Clonar el repositorio https://github.com/jmalberola/sitios-1617 en la carpeta compartida con el guest para tener los dos directorios
+
 Inicializar el box en nuestra máquina virtual:
 
-$vagrant box add https://www.dropbox.com/s/449jkj8pizkto94/ej1.box?dl=0 --name=BOX_NAME
+$vagrant box add BOX_URL --name=BOX_NAME
 
 Dentro de la carpeta clonada de github:
 
